@@ -1,0 +1,11 @@
+D:\Хранилище C#\WindowsFormsApp323\obj\Debug\WindowsFormsApp323.csproj.AssemblyReference.cache
+D:\Хранилище C#\WindowsFormsApp323\obj\Debug\WindowsFormsApp323.csproj.SuggestedBindingRedirects.cache
+D:\Хранилище C#\WindowsFormsApp323\obj\Debug\WindowsFormsApp323.Form1.resources
+D:\Хранилище C#\WindowsFormsApp323\obj\Debug\WindowsFormsApp323.Properties.Resources.resources
+D:\Хранилище C#\WindowsFormsApp323\obj\Debug\WindowsFormsApp323.csproj.GenerateResource.cache
+D:\Хранилище C#\WindowsFormsApp323\obj\Debug\WindowsFormsApp323.csproj.CoreCompileInputs.cache
+D:\Хранилище C#\WindowsFormsApp323\bin\Debug\WindowsFormsApp323.exe.config
+D:\Хранилище C#\WindowsFormsApp323\bin\Debug\WindowsFormsApp323.exe
+D:\Хранилище C#\WindowsFormsApp323\bin\Debug\WindowsFormsApp323.pdb
+D:\Хранилище C#\WindowsFormsApp323\obj\Debug\WindowsFormsApp323.exe
+D:\Хранилище C#\WindowsFormsApp323\obj\Debug\WindowsFormsApp323.pdb
